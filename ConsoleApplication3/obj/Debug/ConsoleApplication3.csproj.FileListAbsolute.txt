@@ -1,0 +1,13 @@
+c:\users\eric_2\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\eric_2\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\eric_2\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\eric_2\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\eric_2\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\eric_2\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\System.Net.Http.Extensions.xml
+c:\users\eric_2\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\System.Net.Http.Primitives.xml
+c:\users\eric_2\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.App.config
+c:\users\eric_2\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+c:\users\eric_2\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\eric_2\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+c:\users\eric_2\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Newtonsoft.Json.dll
+c:\users\eric_2\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Newtonsoft.Json.xml
